@@ -13,9 +13,8 @@ title                    : "Maria Vallarelli"
 title_separator          : "-"
 name                     : &name "Maria Vallarelli"
 description              : &description "Data Scientist | Generative AI | LLMOps | Renewable Energy AI"
-url                      : "https://maria.vallarelli.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/maria.vallarelli.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://mariavallarelli.github.io"
+baseurl                  : "/maria.vallarelli.github.io"
 repository               : "mariavallarelli/maria.vallarelli.github.io"
 
 
