@@ -11,7 +11,7 @@ author_profile: true
 Published on the Databricks Blog.
 
 - 🌐 [Read online](https://www.databricks.com/blog/transforming-solar-and-wind-maintenance-reports-genie-and-ai-agents)
-- 📦 [Offline archived copy](/offline-pages/databricks-renewable-ai.html)
+- 📦 [Offline archived copy]({{ site.baseurl }}/offline-pages/databricks-renewable-ai.html)
 
 
 ## Answerability-First RAG: Validating Evidence Before Generating Answers
