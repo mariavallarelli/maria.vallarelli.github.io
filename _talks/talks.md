@@ -26,8 +26,8 @@ This talk presents an evidence-grounded Retrieval-Augmented Generation (RAG) arc
 |----------|------|
 | 🌐 Official Talk | [View](https://2026.pycon.it/en/event/answerability-first-rag-for-mixed-text-and-tables) |
 | 👤 Speaker Profile | [View](https://2026.pycon.it/en/profile/dynkmb) |
-| 📦 Offline Talk | [Open](/offline-pages/answerability-first-rag-pycon.html) |
-| 📦 Offline Speaker | [Open](/offline-pages/pycon-speaker-profile.html) |
+| 📦 Offline Talk | [Open]({{ site.baseurl }}/offline-pages/databricks-renewable-ai.html) |
+| 📦 Offline Speaker | [Open]({{ site.baseurl }}/offline-pages/pycon-speaker-profile.html) |
 | 💻 GitHub | [Repository](https://github.com/mariavallarelli/answerability-first-rag) |
 
 ---
@@ -48,13 +48,13 @@ Presentation describing how Plenitude leverages Databricks Genie, AI Agents and 
   https://www.osservatori.net/convegno/data-decision-intelligence/convegno-risultati-ricerca-osservatorio-data-decision-intelligence/
 
 - 📦 **Offline Event Page**  
-  /offline-pages/politecnico-use-case.html
+  ({{ site.baseurl }}/offline-pages/politecnico-use-case.html
 
 - 📝 **Related Databricks Article**  
   https://www.databricks.com/blog/transforming-solar-and-wind-maintenance-reports-genie-and-ai-agents
 
 - 📦 **Offline Databricks Article**  
-  /offline-pages/databricks-renewable-ai.html
+  ({{ site.baseurl }}/offline-pages/databricks-renewable-ai.html
 
 ---
 
