@@ -48,13 +48,13 @@ Presentation describing how Plenitude leverages Databricks Genie, AI Agents and 
   https://www.osservatori.net/convegno/data-decision-intelligence/convegno-risultati-ricerca-osservatorio-data-decision-intelligence/
 
 - 📦 **Offline Event Page**  
-  ({{ site.baseurl }}/offline-pages/politecnico-use-case.html
+  [Open]({{ site.baseurl }}/offline-pages/politecnico-use-case.html
 
 - 📝 **Related Databricks Article**  
   https://www.databricks.com/blog/transforming-solar-and-wind-maintenance-reports-genie-and-ai-agents
 
 - 📦 **Offline Databricks Article**  
-  ({{ site.baseurl }}/offline-pages/databricks-renewable-ai.html
+  [Open]({{ site.baseurl }}/offline-pages/databricks-renewable-ai.html
 
 ---
 
